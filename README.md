@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there! 👋
 
-<!--
-**umarhassan1996/umarhassan1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###I'm Umar Hassan and I'm a data journalist who is based in the middle bit of England, Birmingham. 
 
-Here are some ideas to get you started:
+💻 I specialise in covering stories on sport, the media industry and technology
+👀 Available for full-time work in journalism and data analytics
+📚 Learning R, SQL, D3.js, QGIS and Scrollama.js
+🏁 Big sports fan (love motor racing and snooker)
+📈 Enjoy telling stories with data
+📊 Create visualisations in Flourish, Tableau, Datawrapper and ggplot2
+🏊 Ice/cold water swimmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Want to work with me on anything journalism, data visualisation and analytics? You can reach me via my email, which is umarhassanmedia@gmail.com.
+
+
