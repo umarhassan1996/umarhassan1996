@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-###I'm Umar Hassan and I'm a data journalist who is based in the middle bit of England, Birmingham. 
+### I'm Umar Hassan and I'm a data journalist who is based in the middle bit of England, Birmingham. 
 
 💻 I specialise in covering stories on sport, the media industry and technology
 👀 Available for full-time work in journalism and data analytics
