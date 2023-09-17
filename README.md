@@ -9,6 +9,5 @@
 - 📊 Love producing data visualisations in Flourish, Tableau, Datawrapper and ggplot2
 - 🏊 Ice/cold water swimmer
 
-Want to work with me on anything data visualisation and analytics? You can reach me via my email, which is umarhassanmedia@gmail.com.
-
+Want to work with me on anything data visualisation and analytics? You can reach me via my email, which is umar-hassan@live.co.uk
 
