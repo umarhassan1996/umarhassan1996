@@ -1,8 +1,8 @@
 ### Hello there! 👋
 
-### I'm Umar Hassan and I'm a data visualisation and analytics specialist who is based in the middle bit of England, Birmingham. 
+### I'm Umar Hassan and I'm a data journalist analytics specialist who is based in the middle bit of England, Birmingham. 
 
-- 💻 Former journalist who fell in love with data and is pursuing a full-time career in the profession
+- 💻 Recovering journalist who fell in love with data and is looking to come back into the trade
 - 📚 Learning R, SQL, D3.js, QGIS and Scrollama.js
 - 🏁 Big sports fan (love motor racing and snooker)
 - 📈 Enjoy telling stories with data
